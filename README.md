@@ -2,6 +2,8 @@
 
 ### Training
 
+Example:
+
 train 1% data on 4 GPUS:
 
 `bash tools/dist_train_partially.sh semi 1 1 4`
